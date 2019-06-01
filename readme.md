@@ -1,3 +1,4 @@
-* Data practice at work.
+* Data modelling practice at work.
 
 * Hopefully save me from chaos in the real world.
+
